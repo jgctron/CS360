@@ -1,24 +1,23 @@
 Project Summary:
 
- Project Three: Creating an ‘Inventory Management App,’ a system for users to manage their inventory efficiently. The app allowed users to create, edit, or delete items, see them on a grid, and provide feedback when inventory ran low (via SMS). The purpose was to help users who needed an easy and intuitive way to manage their inventory but didn’t need fancy features or a complex system (image courtesy of the author)
+ Project Three: Design an Inventory Management App to help users track their inventory. Users will be able to create, edit, and delete inventory items, view inventory items in a grid format, and receive an SMS text alert when inventory is low. A few key features would be the ability to search for categories of items as well as individual items and the ability to use a barcode scanner when scanning items for inventory.
 
 Screens and Features:
 
- The inventory list, grid view, and login screen were the three main screens of this application, and all data were protected by user authentication. A minimalistic design was adopted for the UI to guarantee Simplicity for the User.
-In this app, the designers place the most important features on the main screen to ensure the application's simple use and fast-language UI design, as well as guaranteeing the user's interaction with the device to meet their needs.
+ The main screens were an inventory list, grid view, and log-in with user authentication. The user interface was created to be minimalistic and straight to the point. Placing the essential features on the main screen makes the user experience faster and easier to accomplish. The UI design was derived from the user's needs, making the functionality more accessible than in the previous application.
 
 Approach to Coding:
 
- This was done to make the coding process more modular and maintainable. An iterative development strategy was exercised. The app was divided into several more minor features, developed and tested individually before the entire app was integrated. This approach helped in the maintenance of the code, as it was manageable, and in debugging processes. This sangeet app can serve as a model for future projects to ensure the codebase is clean and manageable in case of changes or updates.
+ Code was written with modularity and maintainability in mind, and from the beginning, an iterative development methodology was adopted—the app tackled one piece at a time and tested it before integrating it with the rest, which allowed for easier debugging and a cleaner and more adaptable codebase (so that, if it were ever updated or changed, the computational components would be available and ready to use).
 
 Testing and Debugging:
 
- To ensure the app will work properly, I perform unit tests and integration tests to detect bugs right in. This is an important part of the process as it helps to identify whether the app is developed in accordance with its requirements and will work as expected. After doing the testing, I was able to pinpoint areas where the user experience would be improved and address these before the final product is released.
+ Please note that I conducted thorough unit and integration tests on all new features during the specification development to ensure the app works. This testing allowed me to check whether the app met the requirements and functioned as the specification stated. As a result of the testing, I saw areas where the user experience could be enhanced.
 
 Challenges and Innovation:
 
- I wanted to make sure that the SMS notification worked well for different devices and operating systems. The solution required creativity. After researching, I realized the need within the app development process.
+ One of the biggest challenges was making the SMS notification work across all devices and operating systems. This was where we had to be innovative—no one research paper would help, so we had to find the answer ourselves with a bit of trial and error. Flexibility and adaptability were a huge part of the mobile app journey.
 
 Key Success:
 
- An app, ensures that a user's best practices on mobile security
+ The most successful feature of this project was the user authentication system. This feature shows that I have a lot of knowledge and skills in mobile security. It means that the application would not be a threat to the user's data and that the user would easily access it. The application meets the best mobile security practices, which was this project's key feature.
